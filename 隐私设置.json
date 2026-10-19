@@ -1,0 +1,8 @@
+{
+  "project": "智品科技花园",
+  "repository_visibility": "private",
+  "public_deployment_allowed": false,
+  "sharing_requires_authentication": true,
+  "original_pdf_upload_allowed": false,
+  "instruction": "此项目不得公开。网页和模型文件只允许通过经过身份验证、限制到指定收件人的方式分享；原 PDF 继续仅保存在本地。"
+}
