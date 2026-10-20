@@ -1,0 +1,70 @@
+{
+  "checked_at_utc": "2026-10-19T12:44:11.917025+00:00",
+  "repository": "Caiseyingzi/zhipin-garden-3d",
+  "repository_visibility": "private",
+  "pages_enabled": false,
+  "public_deployment_allowed": false,
+  "original_pdf_uploaded": false,
+  "anonymous_endpoints_checked": [
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/index.html",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/%E6%A8%A1%E5%9E%8B/%E6%99%BA%E5%93%81%E7%A7%91%E6%8A%80%E8%8A%B1%E5%9B%AD.skp",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/%E6%A8%A1%E5%9E%8B/%E5%9B%AD%E6%9E%97%E6%A8%A1%E5%9E%8B.glb",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/%E6%A8%A1%E5%9E%8B/%E5%9B%AD%E6%9E%97OBJ%E6%A8%A1%E5%9E%8B.zip",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/%E9%A2%84%E8%A7%88/01-%E9%B8%9F%E7%9E%B0.png",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://caiseyingzi.github.io/zhipin-garden-3d/%E5%8F%82%E8%80%83/%E9%87%8D%E5%BB%BA%E5%B9%B3%E9%9D%A2.svg",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Caiseyingzi/zhipin-garden-3d",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Caiseyingzi/zhipin-garden-3d/main/index.html",
+      "http_status": "404",
+      "curl_returncode": 0,
+      "error": ""
+    }
+  ],
+  "anonymous_access_blocked": true,
+  "public_workflow_guard_verified": true,
+  "private_sharing_deployment_created": false,
+  "prior_public_exposure": true,
+  "note": "此前页面和模型曾公开；当前旧页面、模型直链、仓库和 raw 页面均返回 404。不能撤回他人此前保存的副本。",
+  "private_repository_commit": "a085a2d69c2257244ae21d46c7c535b7745242eb"
+}

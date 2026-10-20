@@ -1,0 +1,73 @@
+{
+  "status": "pass",
+  "native_definition_faces": 359238,
+  "readback_version": [
+    18,
+    0,
+    1
+  ],
+  "materials": 34,
+  "maximum_definition_area_error_m2": 7.585011813637799e-07,
+  "original_pdf_embedded": false,
+  "bounds_before_m": [
+    [
+      -41.166473388671875,
+      -56.505802154541016,
+      -0.8500000238418579
+    ],
+    [
+      41.2146110534668,
+      56.512855529785156,
+      9.140000343322754
+    ]
+  ],
+  "roundtrip_bounds_error_m": 0,
+  "requested_file_format": "SketchUp 2018",
+  "component_definitions": 379,
+  "readback_material_colors_verified": true,
+  "layers_including_default": 8,
+  "category_groups": 7,
+  "units": "metres",
+  "skipped_zero_area_triangles": 400,
+  "readback_definition_areas_verified": true,
+  "groups": 125,
+  "retained_unique_triangles": 359274,
+  "source_unique_triangles": 359674,
+  "component_instances": 9028,
+  "desktop_ui_tested": false,
+  "writer": "SketchUp C API 2026.0",
+  "maximum_roundtrip_definition_area_error_m2": 3.9751330405124463e-07,
+  "tag_names": [
+    "Layer0",
+    "场地与草坪",
+    "透水园路",
+    "自然式花境",
+    "北端菜园",
+    "现状乔木",
+    "藤架与塔形花架",
+    "办公楼局部"
+  ],
+  "readback_definition_faces": 358910,
+  "definitions_with_face_count_changes_on_save": 42,
+  "bounds_after_m": [
+    [
+      -41.166473388671875,
+      -56.505802154541016,
+      -0.8500000238418579
+    ],
+    [
+      41.2146110534668,
+      56.512855529785156,
+      9.140000343322754
+    ]
+  ],
+  "up_axis": "Z",
+  "file": "模型/智品科技花园.skp",
+  "bytes": 71762209,
+  "sha256": "ea8a87a2ff06288631be94b336e2add75a624c202de420a2803b6ec9ebc2cb4b",
+  "source_glb_sha256": "a130fc866db8fa8862be0f259ce833c916e485a66881e6a25552f5961421d524",
+  "sdk_runtime_distributed": false,
+  "runtime_source": "https://github.com/ChaosGroup/scriptup",
+  "runtime_package": "scriptup 2026.0.1",
+  "runtime_package_sha256": "8f10f58528d165dd63e1cc906bba4c5d2051001970c24728b5699eaf0ada55b6"
+}
