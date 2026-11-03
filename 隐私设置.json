@@ -1,8 +1,12 @@
 {
   "project": "智品科技花园",
-  "repository_visibility": "private",
-  "public_deployment_allowed": false,
-  "sharing_requires_authentication": true,
+  "repository_visibility": "public",
+  "public_deployment_allowed": true,
+  "sharing_requires_authentication": false,
   "original_pdf_upload_allowed": false,
-  "instruction": "此项目不得公开。网页和模型文件只允许通过经过身份验证、限制到指定收件人的方式分享；原 PDF 继续仅保存在本地。"
+  "public_edition_id": "guangzhou-spring-20261021",
+  "authorization_date": "2026-11-03",
+  "public_scope": ["广州4月下旬春季试验版网页", "植物清单和配置图", "春季SKP和GLB模型", "重建平面与本版预览"],
+  "local_only": ["原始PDF", "原图截图", "原始提取资料", "本地历史归档目录", "四季视频及制作工程"],
+  "instruction": "按用户2026-11-03明确要求公开广州·4月下旬春季试验版并启用GitHub Pages；公开目录仍使用严格文件白名单。原始PDF及截图、原始提取资料、本地归档和四季视频不在本次公开范围。"
 }

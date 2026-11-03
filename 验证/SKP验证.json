@@ -1,13 +1,13 @@
 {
   "status": "pass",
-  "native_definition_faces": 359238,
+  "native_definition_faces": 354352,
   "readback_version": [
     18,
     0,
     1
   ],
-  "materials": 34,
-  "maximum_definition_area_error_m2": 7.585011813637799e-07,
+  "materials": 39,
+  "maximum_definition_area_error_m2": 5.184119800105691e-09,
   "original_pdf_embedded": false,
   "bounds_before_m": [
     [
@@ -23,17 +23,17 @@
   ],
   "roundtrip_bounds_error_m": 0,
   "requested_file_format": "SketchUp 2018",
-  "component_definitions": 379,
+  "component_definitions": 441,
   "readback_material_colors_verified": true,
   "layers_including_default": 8,
   "category_groups": 7,
   "units": "metres",
   "skipped_zero_area_triangles": 400,
   "readback_definition_areas_verified": true,
-  "groups": 125,
-  "retained_unique_triangles": 359274,
-  "source_unique_triangles": 359674,
-  "component_instances": 9028,
+  "groups": 187,
+  "retained_unique_triangles": 354388,
+  "source_unique_triangles": 354788,
+  "component_instances": 36874,
   "desktop_ui_tested": false,
   "writer": "SketchUp C API 2026.0",
   "maximum_roundtrip_definition_area_error_m2": 3.9751330405124463e-07,
@@ -47,7 +47,7 @@
     "藤架与塔形花架",
     "办公楼局部"
   ],
-  "readback_definition_faces": 358910,
+  "readback_definition_faces": 354024,
   "definitions_with_face_count_changes_on_save": 42,
   "bounds_after_m": [
     [
@@ -62,10 +62,10 @@
     ]
   ],
   "up_axis": "Z",
-  "file": "模型/智品科技花园.skp",
-  "bytes": 71762209,
-  "sha256": "ea8a87a2ff06288631be94b336e2add75a624c202de420a2803b6ec9ebc2cb4b",
-  "source_glb_sha256": "a130fc866db8fa8862be0f259ce833c916e485a66881e6a25552f5961421d524",
+  "file": "模型/智品科技花园-广州春季.skp",
+  "bytes": 81282484,
+  "sha256": "c5461388073fd9a51bc6b13aec734c6e997d1cef8ca9cc3296157c9e9dfb16e9",
+  "source_glb_sha256": "8d57068e4a43c0d90ef995570462d61f7918d63d652af344c50bb6242a5c7839",
   "sdk_runtime_distributed": false,
   "runtime_source": "https://github.com/ChaosGroup/scriptup",
   "runtime_package": "scriptup 2026.0.1",
